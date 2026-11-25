@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "playsnack": {
+      "type": "http",
+      "url": "https://playsnack.app/mcp"
+    }
+  }
+}

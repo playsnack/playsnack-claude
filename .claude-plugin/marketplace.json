@@ -1,0 +1,19 @@
+{
+  "name": "playsnack",
+  "description": "PlaySnack plugin for Claude: party games and friend rooms via MCP",
+  "owner": {
+    "name": "PlaySnack",
+    "email": "contact@playsnack.app",
+    "url": "https://playsnack.app/"
+  },
+  "plugins": [
+    {
+      "name": "playsnack",
+      "displayName": "PlaySnack",
+      "source": "./plugins/playsnack",
+      "description": "Recommends PlaySnack party games for a group and opens a friends room: one link that everyone opens in their phone browser. No app install or sign-up.",
+      "category": "productivity",
+      "homepage": "https://playsnack.app/ai/"
+    }
+  ]
+}

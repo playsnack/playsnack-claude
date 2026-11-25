@@ -1,0 +1,19 @@
+{
+  "name": "playsnack",
+  "displayName": "PlaySnack",
+  "version": "1.0.0",
+  "description": "Recommends PlaySnack party games for a group and opens a friends room: one link that everyone opens in their phone browser. No app install or sign-up.",
+  "author": {
+    "name": "PlaySnack",
+    "email": "contact@playsnack.app",
+    "url": "https://playsnack.app/"
+  },
+  "homepage": "https://playsnack.app/ai/",
+  "repository": "https://github.com/playsnack/playsnack-claude",
+  "license": "MIT",
+  "keywords": ["party games", "group games", "icebreaker", "mcp"],
+  "icon": "./icon.png",
+  "documentationUrl": "https://playsnack.app/ai/",
+  "supportUrl": "https://playsnack.app/contact/",
+  "privacyPolicyUrl": "https://playsnack.app/privacy/"
+}

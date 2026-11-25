@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "playsnack",
+  "version": "1.0.0",
+  "description": "Recommends PlaySnack party games for a group and opens a friends room: one link that everyone opens in their phone browser. No app install or sign-up.",
+  "author": { "name": "PlaySnack", "email": "contact@playsnack.app", "url": "https://playsnack.app/" },
+  "homepage": "https://playsnack.app/ai/",
+  "repository": "https://github.com/playsnack/playsnack-claude",
+  "license": "MIT",
+  "keywords": ["party games", "group games", "icebreaker", "mcp"]
+}
